@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.f797e9c6.css",
+    "main.js": "/my-app/static/js/main.92f20f59.js",
+    "static/media/get_schwifty.ttf": "/my-app/static/media/get_schwifty.c3d1dfc692e3547fed16.ttf",
+    "static/media/delete.svg": "/my-app/static/media/delete.7125f990c616d4e970cbddf10331428e.svg",
+    "static/media/edit.svg": "/my-app/static/media/edit.c21afa39b8568922eaca665ce0b8bd86.svg",
+    "index.html": "/my-app/index.html",
+    "static/media/sort-down.svg": "/my-app/static/media/sort-down.ba07d268208d6abafc84dc379dd108c5.svg",
+    "static/media/sort-up.svg": "/my-app/static/media/sort-up.df57f6575d734a35d5a9926699830369.svg",
+    "static/media/sort.svg": "/my-app/static/media/sort.271862f10e7f1eb40bb01102cba987fd.svg",
+    "main.f797e9c6.css.map": "/my-app/static/css/main.f797e9c6.css.map",
+    "main.92f20f59.js.map": "/my-app/static/js/main.92f20f59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f797e9c6.css",
+    "static/js/main.92f20f59.js"
+  ]
+}
