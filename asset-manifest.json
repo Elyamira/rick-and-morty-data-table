@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.f797e9c6.css",
-    "main.js": "/my-app/static/js/main.92f20f59.js",
-    "static/media/get_schwifty.ttf": "/my-app/static/media/get_schwifty.c3d1dfc692e3547fed16.ttf",
-    "static/media/delete.svg": "/my-app/static/media/delete.7125f990c616d4e970cbddf10331428e.svg",
-    "static/media/edit.svg": "/my-app/static/media/edit.c21afa39b8568922eaca665ce0b8bd86.svg",
-    "index.html": "/my-app/index.html",
-    "static/media/sort-down.svg": "/my-app/static/media/sort-down.ba07d268208d6abafc84dc379dd108c5.svg",
-    "static/media/sort-up.svg": "/my-app/static/media/sort-up.df57f6575d734a35d5a9926699830369.svg",
-    "static/media/sort.svg": "/my-app/static/media/sort.271862f10e7f1eb40bb01102cba987fd.svg",
-    "main.f797e9c6.css.map": "/my-app/static/css/main.f797e9c6.css.map",
-    "main.92f20f59.js.map": "/my-app/static/js/main.92f20f59.js.map"
+    "main.css": "/rick-and-morty-data-table/static/css/main.6a3d92a8.css",
+    "main.js": "/rick-and-morty-data-table/static/js/main.c4606e80.js",
+    "static/media/get_schwifty.ttf": "/rick-and-morty-data-table/static/media/get_schwifty.c3d1dfc692e3547fed16.ttf",
+    "static/media/delete.svg": "/rick-and-morty-data-table/static/media/delete.7125f990c616d4e970cbddf10331428e.svg",
+    "static/media/edit.svg": "/rick-and-morty-data-table/static/media/edit.c21afa39b8568922eaca665ce0b8bd86.svg",
+    "index.html": "/rick-and-morty-data-table/index.html",
+    "static/media/sort-down.svg": "/rick-and-morty-data-table/static/media/sort-down.ba07d268208d6abafc84dc379dd108c5.svg",
+    "static/media/sort-up.svg": "/rick-and-morty-data-table/static/media/sort-up.df57f6575d734a35d5a9926699830369.svg",
+    "static/media/sort.svg": "/rick-and-morty-data-table/static/media/sort.271862f10e7f1eb40bb01102cba987fd.svg",
+    "main.6a3d92a8.css.map": "/rick-and-morty-data-table/static/css/main.6a3d92a8.css.map",
+    "main.c4606e80.js.map": "/rick-and-morty-data-table/static/js/main.c4606e80.js.map"
   },
   "entrypoints": [
-    "static/css/main.f797e9c6.css",
-    "static/js/main.92f20f59.js"
+    "static/css/main.6a3d92a8.css",
+    "static/js/main.c4606e80.js"
   ]
 }
